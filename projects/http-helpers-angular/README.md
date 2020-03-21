@@ -10,7 +10,7 @@ npm install @mailchain/http-helpers-angular --save
 
 ## Usage
 
-In an Angular service file, eg. `my-service.service`, add the following:
+In an Angular service file, eg. `my-service.service.ts`, add the following:
 
 ``` ts
   // import the service
